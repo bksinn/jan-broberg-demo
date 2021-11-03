@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jan-broberg-demo/static/css/main.0a0b7d7c.chunk.css",
+    "main.js": "/jan-broberg-demo/static/js/main.b1da398d.chunk.js",
+    "main.js.map": "/jan-broberg-demo/static/js/main.b1da398d.chunk.js.map",
+    "runtime-main.js": "/jan-broberg-demo/static/js/runtime-main.2a51b702.js",
+    "runtime-main.js.map": "/jan-broberg-demo/static/js/runtime-main.2a51b702.js.map",
+    "static/css/2.83b984a6.chunk.css": "/jan-broberg-demo/static/css/2.83b984a6.chunk.css",
+    "static/js/2.86024e9d.chunk.js": "/jan-broberg-demo/static/js/2.86024e9d.chunk.js",
+    "static/js/2.86024e9d.chunk.js.map": "/jan-broberg-demo/static/js/2.86024e9d.chunk.js.map",
+    "static/js/3.f3c717ff.chunk.js": "/jan-broberg-demo/static/js/3.f3c717ff.chunk.js",
+    "static/js/3.f3c717ff.chunk.js.map": "/jan-broberg-demo/static/js/3.f3c717ff.chunk.js.map",
+    "index.html": "/jan-broberg-demo/index.html",
+    "static/css/2.83b984a6.chunk.css.map": "/jan-broberg-demo/static/css/2.83b984a6.chunk.css.map",
+    "static/css/main.0a0b7d7c.chunk.css.map": "/jan-broberg-demo/static/css/main.0a0b7d7c.chunk.css.map",
+    "static/js/2.86024e9d.chunk.js.LICENSE.txt": "/jan-broberg-demo/static/js/2.86024e9d.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/jan-broberg-demo/static/media/jbroberg-contact.529c65b7.jpg",
+    "static/media/index.scss": "/jan-broberg-demo/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a51b702.js",
+    "static/css/2.83b984a6.chunk.css",
+    "static/js/2.86024e9d.chunk.js",
+    "static/css/main.0a0b7d7c.chunk.css",
+    "static/js/main.b1da398d.chunk.js"
+  ]
+}
